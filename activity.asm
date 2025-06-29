@@ -1,6 +1,6 @@
 section .data
     a dd 5          ; initialized variable
-    b dd 10         ; initialized variable
+    b dd 7         ; initialized variable
     result dd 0     ; will hold result of XOR
     test_result dd 0 ; will hold result of TEST
 
